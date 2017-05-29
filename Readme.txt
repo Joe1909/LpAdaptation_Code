@@ -16,23 +16,5 @@ those options are given in a struct, LpAdaptation is then called as
 	LpAdaptation(oracle,xstart,inopts)
 see also examples in folder examples
 
-the data used in the paper can be found in the folder DataPaper
-
-Figure3: 
-	out_Storn10.mat
-	Plot_Figure3.m
-		 
-Figure4: 
-	out_Folium.mat, out_Handle.mat
-
-Figure5: 
-	all out_Lp_stretched20D_*.mat files
-	Plot_Figure5.m
-		
-Figure6: 
-	out_SCfilter.mat
-	Plot_Figure6.m
-		 
-two component system: 
-	all out_TCS_*.mat files	 		 		 
-
+the data used in the paper can be found here: 
+	https://asmus@git.mpi-cbg.de/asmus/LpAdaptation_Code.git
